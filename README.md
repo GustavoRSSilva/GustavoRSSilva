@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/GustavoRSSilva/GustavoRSSilva/blob/main/profile.gif?raw=true">
+</p>
 
 <!---
 GustavoRSSilva/GustavoRSSilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
