@@ -3,7 +3,7 @@
 </p>
 
 <!---
-To recreate this gif, go to https://codesandbox.io/s/slides-with-typewriter-effect-reactjs-forked-tw7xm6?file=/src/App.js, capture the video and convert to gif.
+To recreate this gif, go to https://codesandbox.io/s/slides-with-typewriter-effect-reactjs-forked-tw7xm6?file=/src/App.js, capture the video and convert to gif. 
 --->
 
 <!---
