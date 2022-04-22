@@ -7,6 +7,10 @@ To recreate this gif, go to https://codesandbox.io/s/slides-with-typewriter-effe
 --->
 
 <!---
+TODO: make this gif faster
+--->
+
+<!---
 GustavoRSSilva/GustavoRSSilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
