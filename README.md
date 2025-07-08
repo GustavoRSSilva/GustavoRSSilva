@@ -1,4 +1,4 @@
-🌟 Tech Leader at ConsenSys | Blockchain Innovator 🚀 | Ethereum Advocate 🌐 | Decentralized Finance (DeFi) Enthusiast 📈 | Building the Future of Web3 🛠️
+🌟 Engineer Manager at Blueprint Finance | Blockchain Innovator 🚀 | Ethereum Advocate 🌐 | Decentralized Finance (DeFi) Enthusiast 📈 | Building the Future of Web3 🛠️
 
 👋 Greetings! I'm Gustavo Silva, a tech leader at ConsenSys, a global blockchain technology pioneer. My journey is all about driving innovation and fostering adoption in the exciting world of blockchain, Ethereum, and Web3 technologies.
 
